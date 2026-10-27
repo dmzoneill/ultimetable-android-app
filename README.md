@@ -1,5 +1,9 @@
 # UlTimetable Android App
 
+<p align="center">
+  <img src=".github/logo.png" alt="ultimetable-android-app logo" width="128" />
+</p>
+
 An Android app that shows University of Limerick student timetables.
 
 ## What it does
